@@ -10,6 +10,12 @@ To run this project on your local server, type:
 node index.js
 ```
 
+or for the Express version
+
+```
+node app.js
+```
+
 After you have done that, head to this address in your browser.
 
 ```
@@ -21,3 +27,4 @@ http://localhost:8080/
 ##### Tools and technologies used:
 
 -   NodeJS
+-   Express
