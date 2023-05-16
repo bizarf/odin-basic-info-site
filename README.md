@@ -3,6 +3,7 @@
 The goal of this project is to make a basic website that serves pages with NodeJS.
 
 [View the live site here](http://odin-basic-info-site.bizarf.repl.co/)
+[View the express version of the site here](https://odin-basic-info-site-express-version.bizarf.repl.co)
 
 To run this project on your local server, type:
 
